@@ -1,0 +1,17 @@
+{
+    "name": "vinicius/ecc",
+    "require": {
+        "simplito/elliptic-php": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vinicius\\Ecc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "viniciusbeckerbernardini",
+            "email": "vbkmma@gmail.com"
+        }
+    ]
+}
