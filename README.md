@@ -4,5 +4,7 @@ Curva eliptica para cadeira de segurança da informação (não levem tão a sé
 Requisitos:
 
 php 7.4 
+<br>
 composer
+<br>
 php-gmp
